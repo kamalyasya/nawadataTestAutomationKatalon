@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ObjctMerriedNO</name>
+   <tag></tag>
+   <elementGuidId>7af287c1-ece0-454c-bdde-e840db2041c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>//span[@id='ContentPlaceHolder1_isMerried_No-displayEl']//input[1]</name>
+      <type>Main</type>
+      <value>//span[@id='ContentPlaceHolder1_isMerried_No-displayEl']//input[1]</value>
+      <webElementGuid>a8e83f14-a4c1-400d-9229-5223a65e16f3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

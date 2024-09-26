@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ObjctMultiDistrict</name>
+   <tag></tag>
+   <elementGuidId>6e761de1-f24c-4e0c-a05e-60887c8ba0a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>//iframe[@id='component-1037']</name>
+      <type>Main</type>
+      <value>//iframe[@id='component-1037']</value>
+      <webElementGuid>2773c788-be6e-47a1-996d-36287a4055f6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
